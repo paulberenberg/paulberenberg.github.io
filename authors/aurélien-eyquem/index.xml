@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurélien Eyquem | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/</link>
+      <atom:link href="https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurélien Eyquem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Aurélien Eyquem</title>
+      <link>https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/</link>
+    </image>
+    
+    <item>
+      <title>L’internationalisation des centres de décision en Europe : une analyse comparée</title>
+      <link>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les centres de décision d’entreprises étrangères en France : une analyse comparée</title>
+      <link>https://paulberenberg.github.io/publication/centres-des-decisions-i/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/centres-des-decisions-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/authors/admin/</link>
+      <atom:link href="https://paulberenberg.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Berenberg-Gossler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Paul Berenberg-Gossler</title>
+      <link>https://paulberenberg.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>International Financial Integration and Output Co-Movement</title>
+      <link>https://paulberenberg.github.io/publication/conference-paper/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Market Fragmentation in the Euro Area: State of Play</title>
+      <link>https://paulberenberg.github.io/publication/financial-fragmentation/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/financial-fragmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L’internationalisation des centres de décision en Europe : une analyse comparée</title>
+      <link>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les centres de décision d’entreprises étrangères en France : une analyse comparée</title>
+      <link>https://paulberenberg.github.io/publication/centres-des-decisions-i/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/centres-des-decisions-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L’assurance-chômage aux Etats-Unis : un système à deux niveaux</title>
+      <link>https://paulberenberg.github.io/publication/assurance-chomage/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/assurance-chomage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
