@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/authors/</link>
+      <atom:link href="https://paulberenberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://paulberenberg.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://paulberenberg.github.io/authors/admin/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Phd Candidate at the Hertie School of Governance. In my research I mainly focus on the interlinkages between financial integration, financial regulation, and real economic or political outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Henrik Enderlein</title>
+      <link>https://paulberenberg.github.io/authors/henrik-enderlein/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/authors/henrik-enderlein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aurélien Eyquem</title>
+      <link>https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farid Toubal</title>
+      <link>https://paulberenberg.github.io/authors/farid-toubal/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/authors/farid-toubal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

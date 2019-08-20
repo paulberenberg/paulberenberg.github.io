@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/publication_types/</link>
+      <atom:link href="https://paulberenberg.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://paulberenberg.github.io/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>3</title>
+      <link>https://paulberenberg.github.io/publication_types/3/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://paulberenberg.github.io/publication_types/4/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

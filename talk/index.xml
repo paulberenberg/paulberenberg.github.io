@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/talk/</link>
+      <atom:link href="https://paulberenberg.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 22 Sep 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Presentations</title>
+      <link>https://paulberenberg.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Annual Congress of the Verein fuer Socialpolitik</title>
+      <link>https://paulberenberg.github.io/talk/vfs/vfs/</link>
+      <pubDate>Sun, 22 Sep 2019 13:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/talk/vfs/vfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theories and Methods in Macroeconomics (T2M)</title>
+      <link>https://paulberenberg.github.io/talk/t2m/t2m/</link>
+      <pubDate>Sat, 23 Mar 2019 13:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/talk/t2m/t2m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6th Workshop on Applied Macro-Econometrics</title>
+      <link>https://paulberenberg.github.io/talk/paris-macroeconometrics/parismacro/</link>
+      <pubDate>Wed, 10 Oct 2018 09:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/talk/paris-macroeconometrics/parismacro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>33rd Annual Congress of the European Economic Association</title>
+      <link>https://paulberenberg.github.io/talk/eea/eea/</link>
+      <pubDate>Mon, 20 Aug 2018 09:00:13 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/talk/eea/eea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8th IWH/INFER Workshop on International Capital Flows and Macroprudential Stability</title>
+      <link>https://paulberenberg.github.io/talk/iwh-halle/iwh/</link>
+      <pubDate>Thu, 16 Aug 2018 13:50:13 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/talk/iwh-halle/iwh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rimini Conference in Economics and Finance</title>
+      <link>https://paulberenberg.github.io/talk/rimini/rimini/</link>
+      <pubDate>Thu, 14 Jun 2018 12:00:13 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/talk/rimini/rimini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEPII Research Seminar</title>
+      <link>https://paulberenberg.github.io/talk/cepii-paris/cepii/</link>
+      <pubDate>Thu, 07 Jun 2018 15:00:13 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/talk/cepii-paris/cepii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1st CESifo EconPol Europe PhD Workshop - Economic and Fiscal Policy in Europe</title>
+      <link>https://paulberenberg.github.io/talk/cesifo/cesifo/</link>
+      <pubDate>Thu, 01 Feb 2018 09:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/talk/cesifo/cesifo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
