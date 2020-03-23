@@ -5,7 +5,7 @@
     <link>https://paulberenberg.github.io/authors/</link>
       <atom:link href="https://paulberenberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,18 @@
     <item>
       <title></title>
       <link>https://paulberenberg.github.io/authors/admin/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://paulberenberg.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a Phd Candidate at the Hertie School of Governance. In my research I mainly focus on the intersection of macroeconomics, finance, and political economy.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Gonçalo Pina</title>
+      <link>https://paulberenberg.github.io/authors/gon%C3%A7alo-pina/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://paulberenberg.github.io/authors/gon%C3%A7alo-pina/</guid>
+      <description></description>
     </item>
     
     <item>
