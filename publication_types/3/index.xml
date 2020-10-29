@@ -5,7 +5,7 @@
     <link>https://paulberenberg.github.io/publication_types/3/</link>
       <atom:link href="https://paulberenberg.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>3</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>International Portfolio Investment Integration and Business Cycle Synchronization</title>
+      <link>https://paulberenberg.github.io/publication/conference-paper/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Financial Regulatory Actions over the Cycle</title>
       <link>https://paulberenberg.github.io/publication/conference-paper3/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
       <guid>https://paulberenberg.github.io/publication/conference-paper3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>International Portfolio Investment Integration and Business Cycle Synchronization</title>
-      <link>https://paulberenberg.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
-      <guid>https://paulberenberg.github.io/publication/conference-paper/</guid>
+      <title>Elections decrease Financial Regulatory Activity: Evidence from Investment Adviser Disclosures</title>
+      <link>https://paulberenberg.github.io/publication/conference-paper2/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>https://paulberenberg.github.io/publication/conference-paper2/</guid>
       <description></description>
     </item>
     
