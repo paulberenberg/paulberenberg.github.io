@@ -5,7 +5,7 @@
     <link>https://paulberenberg.github.io/tags/</link>
       <atom:link href="https://paulberenberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Financial Crises</title>
       <link>https://paulberenberg.github.io/tags/financial-crises/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
       <guid>https://paulberenberg.github.io/tags/financial-crises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Fragmentation</title>
+      <link>https://paulberenberg.github.io/tags/financial-fragmentation/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://paulberenberg.github.io/tags/financial-fragmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>https://paulberenberg.github.io/tags/policy/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://paulberenberg.github.io/tags/policy/</guid>
       <description></description>
     </item>
     
@@ -49,22 +65,6 @@
       <link>https://paulberenberg.github.io/tags/portfolio-investment/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0200</pubDate>
       <guid>https://paulberenberg.github.io/tags/portfolio-investment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Financial Fragmentation</title>
-      <link>https://paulberenberg.github.io/tags/financial-fragmentation/</link>
-      <pubDate>Mon, 26 Sep 2016 00:00:00 +0200</pubDate>
-      <guid>https://paulberenberg.github.io/tags/financial-fragmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Policy</title>
-      <link>https://paulberenberg.github.io/tags/policy/</link>
-      <pubDate>Mon, 26 Sep 2016 00:00:00 +0200</pubDate>
-      <guid>https://paulberenberg.github.io/tags/policy/</guid>
       <description></description>
     </item>
     
