@@ -5,7 +5,7 @@
     <link>https://paulberenberg.github.io/authors/</link>
       <atom:link href="https://paulberenberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -73,7 +73,8 @@
       <link>https://paulberenberg.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a research associate/postdoc at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW). In my research, I mainly focus on the intersection of macroeconomics, finance, and political economy.&lt;/p&gt;
+      <description>&lt;p&gt;Economist and data scientist specializing in international macroeconomics and finance.&lt;/p&gt;
+&lt;p&gt;Currently, I am research associate at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW) in Berlin.&lt;/p&gt;
 </description>
     </item>
     
