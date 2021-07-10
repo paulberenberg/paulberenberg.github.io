@@ -5,7 +5,7 @@
     <link>https://paulberenberg.github.io/authors/</link>
       <atom:link href="https://paulberenberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,24 +15,80 @@
     <item>
       <title>Claus Michelsen</title>
       <link>https://paulberenberg.github.io/authors/claus-michelsen/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/claus-michelsen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Kläffling</title>
-      <link>https://paulberenberg.github.io/authors/david-kl%C3%A4ffling/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
-      <guid>https://paulberenberg.github.io/authors/david-kl%C3%A4ffling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geraldine Dany-Knedlik</title>
       <link>https://paulberenberg.github.io/authors/geraldine-dany-knedlik/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/geraldine-dany-knedlik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guido Baldi</title>
+      <link>https://paulberenberg.github.io/authors/guido-baldi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/guido-baldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hella Engerer</title>
+      <link>https://paulberenberg.github.io/authors/hella-engerer/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/hella-engerer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantin Kholodilin</title>
+      <link>https://paulberenberg.github.io/authors/konstantin-kholodilin/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/konstantin-kholodilin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Pagenhardt</title>
+      <link>https://paulberenberg.github.io/authors/laura-pagenhardt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/laura-pagenhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marius Clemens</title>
+      <link>https://paulberenberg.github.io/authors/marius-clemens/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/marius-clemens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Hanisch</title>
+      <link>https://paulberenberg.github.io/authors/max-hanisch/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/max-hanisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Berenberg-Gossler</title>
+      <link>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Junker</title>
+      <link>https://paulberenberg.github.io/authors/simon-junker/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/simon-junker/</guid>
       <description></description>
     </item>
     
@@ -45,10 +101,34 @@
     </item>
     
     <item>
-      <title>Henrik Enderlein</title>
-      <link>https://paulberenberg.github.io/authors/henrik-enderlein/</link>
-      <pubDate>Mon, 26 Sep 2016 00:00:00 +0200</pubDate>
-      <guid>https://paulberenberg.github.io/authors/henrik-enderlein/</guid>
+      <title> others</title>
+      <link>https://paulberenberg.github.io/authors/others/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Kläffling</title>
+      <link>https://paulberenberg.github.io/authors/david-kl%C3%A4ffling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/david-kl%C3%A4ffling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel Fratzscher</title>
+      <link>https://paulberenberg.github.io/authors/marcel-fratzscher/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/marcel-fratzscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Pasch</title>
+      <link>https://paulberenberg.github.io/authors/sandra-pasch/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/sandra-pasch/</guid>
       <description></description>
     </item>
     
@@ -65,6 +145,14 @@
       <link>https://paulberenberg.github.io/authors/farid-toubal/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       <guid>https://paulberenberg.github.io/authors/farid-toubal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henrik Enderlein</title>
+      <link>https://paulberenberg.github.io/authors/henrik-enderlein/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/henrik-enderlein/</guid>
       <description></description>
     </item>
     

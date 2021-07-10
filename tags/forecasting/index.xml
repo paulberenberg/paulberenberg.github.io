@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecasting | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/tags/forecasting/</link>
+      <atom:link href="https://paulberenberg.github.io/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forecasting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Forecasting</title>
+      <link>https://paulberenberg.github.io/tags/forecasting/</link>
+    </image>
+    
+    <item>
+      <title>Global economy: USA and China leading the way, Europe lagging behind</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2021-global/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2021-global/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

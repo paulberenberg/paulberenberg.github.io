@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hella Engerer | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/authors/hella-engerer/</link>
+      <atom:link href="https://paulberenberg.github.io/authors/hella-engerer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hella Engerer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Hella Engerer</title>
+      <link>https://paulberenberg.github.io/authors/hella-engerer/</link>
+    </image>
+    
+    <item>
+      <title>Global economy: USA and China leading the way, Europe lagging behind</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2021-global/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2021-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global economy: Recovery slowing down</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2020-global/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2020-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Coronavirus Wave Affecting German Economy and Halting Recovery</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2020-second/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2020-second/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Junker | Paul Berenberg-Gossler</title>
+    <link>https://paulberenberg.github.io/authors/simon-junker/</link>
+      <atom:link href="https://paulberenberg.github.io/authors/simon-junker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Junker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paulberenberg.github.io/img/icon-192.png</url>
+      <title>Simon Junker</title>
+      <link>https://paulberenberg.github.io/authors/simon-junker/</link>
+    </image>
+    
+    <item>
+      <title>German economy between lockdowns and normality</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2021-german/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2021-german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German economy: Optimistic despite decline as 2020 ends</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2020-german/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2020-german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Coronavirus Wave Affecting German Economy and Halting Recovery</title>
+      <link>https://paulberenberg.github.io/publication/michelsen-2020-second/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/michelsen-2020-second/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
