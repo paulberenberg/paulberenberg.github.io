@@ -5,7 +5,7 @@
     <link>https://paulberenberg.github.io/authors/admin/</link>
       <atom:link href="https://paulberenberg.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Berenberg-Gossler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Paul Berenberg-Gossler</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Gubernatorial Elections Decrease State-level Regulatory Actions of Investment Advisers</title>
+      <link>https://paulberenberg.github.io/publication/conference-paper2/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/conference-paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>International Portfolio Investment Integration and Business Cycle Synchronization</title>
       <link>https://paulberenberg.github.io/publication/conference-paper/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
@@ -23,23 +31,15 @@
     <item>
       <title>Financial Regulatory Actions over the Cycle</title>
       <link>https://paulberenberg.github.io/publication/conference-paper3/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/conference-paper3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elections decrease Financial Regulatory Activity: Evidence from Investment Adviser Disclosures</title>
-      <link>https://paulberenberg.github.io/publication/conference-paper2/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0200</pubDate>
-      <guid>https://paulberenberg.github.io/publication/conference-paper2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L’internationalisation des centres de décision en Europe : une analyse comparée</title>
       <link>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Les centres de décision d’entreprises étrangères en France : une analyse comparée</title>
       <link>https://paulberenberg.github.io/publication/centres-des-decisions-i/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/centres-des-decisions-i/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>L’assurance-chômage aux Etats-Unis : un système à deux niveaux</title>
       <link>https://paulberenberg.github.io/publication/assurance-chomage/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/assurance-chomage/</guid>
       <description></description>
     </item>

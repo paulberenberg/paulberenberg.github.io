@@ -5,12 +5,76 @@
     <link>https://paulberenberg.github.io/authors/</link>
       <atom:link href="https://paulberenberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://paulberenberg.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Gonçalo Pina</title>
+      <link>https://paulberenberg.github.io/authors/gon%C3%A7alo-pina/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/gon%C3%A7alo-pina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frederik Kurcz</title>
+      <link>https://paulberenberg.github.io/authors/frederik-kurcz/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/frederik-kurcz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guido Baldi</title>
+      <link>https://paulberenberg.github.io/authors/guido-baldi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/guido-baldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hella Engerer</title>
+      <link>https://paulberenberg.github.io/authors/hella-engerer/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/hella-engerer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantin Kholodilin</title>
+      <link>https://paulberenberg.github.io/authors/konstantin-kholodilin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/konstantin-kholodilin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Pagenhardt</title>
+      <link>https://paulberenberg.github.io/authors/laura-pagenhardt/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/laura-pagenhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Berenberg-Gossler</title>
+      <link>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Junker</title>
+      <link>https://paulberenberg.github.io/authors/simon-junker/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/simon-junker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Claus Michelsen</title>
@@ -29,38 +93,6 @@
     </item>
     
     <item>
-      <title>Guido Baldi</title>
-      <link>https://paulberenberg.github.io/authors/guido-baldi/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/guido-baldi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hella Engerer</title>
-      <link>https://paulberenberg.github.io/authors/hella-engerer/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/hella-engerer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Konstantin Kholodilin</title>
-      <link>https://paulberenberg.github.io/authors/konstantin-kholodilin/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/konstantin-kholodilin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laura Pagenhardt</title>
-      <link>https://paulberenberg.github.io/authors/laura-pagenhardt/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/laura-pagenhardt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marius Clemens</title>
       <link>https://paulberenberg.github.io/authors/marius-clemens/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -73,30 +105,6 @@
       <link>https://paulberenberg.github.io/authors/max-hanisch/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/max-hanisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paul Berenberg-Gossler</title>
-      <link>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simon Junker</title>
-      <link>https://paulberenberg.github.io/authors/simon-junker/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/simon-junker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gonçalo Pina</title>
-      <link>https://paulberenberg.github.io/authors/gon%C3%A7alo-pina/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
-      <guid>https://paulberenberg.github.io/authors/gon%C3%A7alo-pina/</guid>
       <description></description>
     </item>
     
@@ -135,7 +143,7 @@
     <item>
       <title>Aurélien Eyquem</title>
       <link>https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/aur%C3%A9lien-eyquem/</guid>
       <description></description>
     </item>
@@ -143,7 +151,7 @@
     <item>
       <title>Farid Toubal</title>
       <link>https://paulberenberg.github.io/authors/farid-toubal/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/farid-toubal/</guid>
       <description></description>
     </item>
@@ -161,8 +169,9 @@
       <link>https://paulberenberg.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Economist and data scientist specializing in international macroeconomics and finance.&lt;/p&gt;
-&lt;p&gt;Currently, I am a research associate at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW) in Berlin.&lt;/p&gt;
+      <description>&lt;p&gt;I am heading the economics and financial markets research team at the &lt;!-- raw HTML omitted --&gt;German Insurance Association&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;p&gt;Previously, I held posts at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW) in Berlin, the French Conseil d&amp;rsquo;Analyse Economique, and the Hertie School where in 2021 I completed a PhD in economics. I (co-)authored many policy reports, notably for the European Parliament and at the DIW, and participated in the so-called &amp;ldquo;Joint Economic Forecast&amp;rdquo; of the leading German economic research institutes. I also taught courses in macroeconomics, international trade, and economic policy at universities in France, Germany, and the US.&lt;/p&gt;
+&lt;p&gt;My academic research focuses on the intersection of the real and financial sector, in particular financial regulation and business cycle synchronization in the Eurozone.&lt;/p&gt;
 </description>
     </item>
     

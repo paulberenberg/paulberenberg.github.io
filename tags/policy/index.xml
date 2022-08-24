@@ -5,12 +5,20 @@
     <link>https://paulberenberg.github.io/tags/policy/</link>
       <atom:link href="https://paulberenberg.github.io/tags/policy/index.xml" rel="self" type="application/rss+xml" />
     <description>Policy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Policy</title>
       <link>https://paulberenberg.github.io/tags/policy/</link>
     </image>
+    
+    <item>
+      <title>DIW Berlin economic outlook: Summer upswing to follow winter slump</title>
+      <link>https://paulberenberg.github.io/publication/diw-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/publication/diw-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>German economy between lockdowns and normality</title>
@@ -63,7 +71,7 @@
     <item>
       <title>L’internationalisation des centres de décision en Europe : une analyse comparée</title>
       <link>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/centres-des-decisions-ii/</guid>
       <description></description>
     </item>
@@ -71,7 +79,7 @@
     <item>
       <title>Les centres de décision d’entreprises étrangères en France : une analyse comparée</title>
       <link>https://paulberenberg.github.io/publication/centres-des-decisions-i/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/centres-des-decisions-i/</guid>
       <description></description>
     </item>
@@ -79,7 +87,7 @@
     <item>
       <title>L’assurance-chômage aux Etats-Unis : un système à deux niveaux</title>
       <link>https://paulberenberg.github.io/publication/assurance-chomage/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/publication/assurance-chomage/</guid>
       <description></description>
     </item>
