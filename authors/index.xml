@@ -5,12 +5,36 @@
     <link>https://paulberenberg.github.io/authors/</link>
       <atom:link href="https://paulberenberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paulberenberg.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://paulberenberg.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Jörg S. Haas</title>
+      <link>https://paulberenberg.github.io/authors/j%C3%B6rg-s.-haas/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/j%C3%B6rg-s.-haas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kay Seemann</title>
+      <link>https://paulberenberg.github.io/authors/kay-seemann/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/kay-seemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Berenberg-Gossler</title>
+      <link>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gonçalo Pina</title>
@@ -57,14 +81,6 @@
       <link>https://paulberenberg.github.io/authors/laura-pagenhardt/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://paulberenberg.github.io/authors/laura-pagenhardt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paul Berenberg-Gossler</title>
-      <link>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://paulberenberg.github.io/authors/paul-berenberg-gossler/</guid>
       <description></description>
     </item>
     
